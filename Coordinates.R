@@ -20,3 +20,4 @@ Coordinates <- setRefClass("Coordinates",
                            ))
 
 #test1
+#test2
