@@ -18,3 +18,5 @@ Coordinates <- setRefClass("Coordinates",
                                }
                              }
                            ))
+
+#test1
